@@ -40,7 +40,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 
 ### Installation
 
-1. **Download the latest installer** from the [Downloads](#downloads) section below
+1. **Download the latest installer** from the [Downloads](#releases) section below
 2. **Run the installer** and follow the setup wizard
 3. **Make sure you joined our Discord server** [Discord](https://discord.gg/V9uNkVYT5F) Only used for authentication, and community server
 4. **Launch SnapSteam** and authenticate with Discord
@@ -58,7 +58,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 
 | Version | Release Date | Download | Size |
 |---------|--------------|----------|------|
-| **0.8.5** | 2026-02-25 | [SnapSteam Setup 0.8.5.exe](https://github.com/snapsteamteam/snap-steam/releases/download/v0.8.5/SnapSteam-Setup-0.8.5.exe) | ~175 MB |
+| **0.8.5** | 2026-02-25 | [SnapSteam Setup 0.8.5.exe](https://github.com/snapsteamteam/SnapSteam/releases/tag/0.8.5) | ~175 MB |
 
 ## 🐛 Troubleshooting
 
