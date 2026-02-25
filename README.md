@@ -40,7 +40,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 
 ### Installation
 
-1. **Download the latest installer** from the [Downloads](#releases) section below
+1. **Download the latest installer** from the [Releases](https://github.com/snapsteamteam/SnapSteam/releases/tag/0.8.5) Tab
 2. **Run the installer** and follow the setup wizard
 3. **Make sure you joined our Discord server** [Discord](https://discord.gg/V9uNkVYT5F) Only used for authentication, and community server
 4. **Launch SnapSteam** and authenticate with Discord
