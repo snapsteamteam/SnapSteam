@@ -1,31 +1,23 @@
 # SnapSteam
 
-> **Windows tool for managing Steam games, manifests, and online activation fixes**
+> **Windows tool for unlocking Steam games, manifests, and online activation fixes**
 
 [![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
-SnapSteam is a powerful Windows desktop application that helps Steam users manage their game library, download game manifests, and access online activation fixes. Features tier-based access control with Discord authentication.
+SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library without paying, with access to online activation fixes.
 
 ## ✨ Features
 
-### 🎮 Game Management
-- **Steam Integration**: Automatically detects Steam installation and game library
-- **Manifest Downloads**: Download and manage Steam game manifests
-- **Game Information**: Fetch detailed game info from Steam API
-- **Library Search**: Search and filter your Steam library
+- **Instant Access**: Automatically detects Steam games and lets you play/add any game to your library
 
-### 🔧 Advanced Features
 - **Online Activation Fixes**: Access curated online fixes for games (tier-based)
-- **Auto-Update Manifests**: Ultimate tier gets automatic manifest updates
-- **Discord Integration**: OAuth2 authentication with role-based tiers
-- **Usage Tracking**: Daily/monthly download limits with reset periods
 
-### 🛡️ Security & Performance
+- **Auto-Update Manifests**: Ultimate tier gets automatic manifest updates
+
 - **Rate Limiting**: Steam API-friendly request queuing
+
 - **Path Validation**: Secure file operations within Steam directories
-- **XSS Protection**: HTML escaping for all user-facing content
-- **Caching**: Intelligent caching for game info and search results
 
 ## 🏆 Tiers & Pricing
 
@@ -37,7 +29,7 @@ SnapSteam is a powerful Windows desktop application that helps Steam users manag
 | **Premium** | 5 | 65 | 3/day (45/mo) | $10/month |
 | **Ultimate** | ♾️ | ♾️ | ♾️ | $15/month |
 
-*Ultimate tier includes automatic manifest updates and soft cooldown protection*
+*Ultimate tier includes automatic manifest updates*
 
 ## 🚀 Quick Start
 
@@ -50,8 +42,9 @@ SnapSteam is a powerful Windows desktop application that helps Steam users manag
 
 1. **Download the latest installer** from the [Downloads](#downloads) section below
 2. **Run the installer** and follow the setup wizard
-3. **Launch SnapSteam** and authenticate with Discord
-4. **Configure Steam paths** if auto-detection fails (Settings → Steam Paths)
+3. **Make sure you joined our Discord server** [Discord](https://discord.gg/V9uNkVYT5F) Only used for authentication, and community server
+4. **Launch SnapSteam** and authenticate with Discord
+5. **Configure Steam paths** if auto-detection fails (Settings → Steam Paths)
 
 ### First Run
 
@@ -59,26 +52,13 @@ SnapSteam is a powerful Windows desktop application that helps Steam users manag
 2. **Library Scan**: SnapSteam will scan your Steam library
 3. **Choose Your Tier**: Select a plan or continue with Free tier
 
-## 🔐 Authentication
-
-SnapSteam uses Discord OAuth2 for authentication:
-- Click "Login with Discord" in the app
-- Authorize the application
-- Your Discord roles determine your access tier
-
 ## 📦 Downloads
 
 ### Latest Version: 0.8.5
 
 | Version | Release Date | Download | Size |
 |---------|--------------|----------|------|
-| **0.8.5** | 2026-02-25 | [SnapSteam Setup 0.8.5.exe](https://github.com/yourusername/snap-steam/releases/download/v0.8.5/SnapSteam-Setup-0.8.5.exe) | ~175 MB |
-
-### Previous Versions
-
-| Version | Release Date | Download | Notes |
-|---------|--------------|----------|-------|
-| 0.8.1 | 2026-02-21 | [SnapSteam Setup 0.8.1.exe](https://github.com/yourusername/snap-steam/releases/download/v0.8.1/SnapSteam-Setup-0.8.1.exe) | Previous stable release |
+| **0.8.5** | 2026-02-25 | [SnapSteam Setup 0.8.5.exe](https://github.com/snapsteamteam/snap-steam/releases/download/v0.8.5/SnapSteam-Setup-0.8.5.exe) | ~175 MB |
 
 ## 🐛 Troubleshooting
 
@@ -86,12 +66,10 @@ SnapSteam uses Discord OAuth2 for authentication:
 
 **"Steam not found"**
 - Ensure Steam is installed and running
-- Check Steam installation path in Settings
+- Check the Steam installation path in Settings
 
 **"Authentication failed"**
-- Verify Discord bot is running
-- Check Discord credentials
-- Ensure user is in required Discord server
+- Ensure the user is in the required Discord server
 
 **"Download limit reached"**
 - Check your tier limits
@@ -99,29 +77,22 @@ SnapSteam uses Discord OAuth2 for authentication:
 - Consider upgrading your tier
 
 **"Rate limited by Steam API"**
-- Wait for automatic cooldown
+- Wait for the automatic cooldown
 - Reduce search frequency
 - Check Steam API status
 
-### Debug Mode
-
-Enable debug logging:
-1. Open Settings
-2. Enable "Debug Mode"
-3. Check console for detailed logs
 
 ## 📚 Documentation
 
-- **User Guide**: See the in-app help and tooltips
-- **Discord Community**: [Join our support server](https://discord.gg/2JyhFCJQ)
+- **Discord Community**: [Join our support server](https://discord.gg/V9uNkVYT5F)
 - **Patreon Support**: [Support development](https://www.patreon.com/c/SnapSteam)
 
 ## 🔗 Links
 
-- **Discord Community**: https://discord.gg/2JyhFCJQ
+- **Discord Community**: https://discord.gg/V9uNkVYT5F
 - **Patreon Support**: https://www.patreon.com/c/SnapSteam
-- **Bug Reports**: https://github.com/yourusername/snap-steam/issues
-- **Feature Requests**: https://github.com/yourusername/snap-steam/discussions
+- **Bug Reports**: https://github.com/snapsteamteam/snap-steam/issues
+- **Feature Requests**: https://discord.gg/V9uNkVYT5F
 
 ## 📄 Copyright
 
@@ -132,7 +103,7 @@ SnapSteam is proprietary software. This repository contains only the official do
 **Important:**
 - No license is granted - all rights reserved
 - Redistribution, modification, or reverse engineering is prohibited
-- Official distribution through authorized channels only
+- Official distribution through authorised channels only
 - For licensing inquiries, contact our team
 
 ## ⚠️ Disclaimer
