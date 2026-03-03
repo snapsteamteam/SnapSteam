@@ -5,11 +5,11 @@
 [![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
-SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library without paying, with access to online activation fixes.
+SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library, with access to online activation fixes.
 
 ## ✨ Features
 
-- **Instant Access**: Automatically detects Steam games and lets you play/add any game to your library
+- **Instant Access**: Automatically detects available games and lets you play/add any game to your library
 
 - **Online Activation Fixes**: Access curated online fixes for games (tier-based)
 
