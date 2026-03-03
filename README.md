@@ -1,23 +1,23 @@
 # SnapSteam
 
-> **Windows tool for unlocking Steam games, manifests, and online activation fixes**
+> **Steam library companion tool for Windows**
 
 [![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
-SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library, with access to online activation fixes.
+SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library, with online activation fixes.
 
 ## ✨ Features
 
-- **Instant Access**: Automatically detects available games and lets you play/add any game to your library
+- **Instant Access**: Automatically detects available games and streamlines Steam library management
 
-- **Online Activation Fixes**: Access curated online fixes for games (tier-based)
+- **Online Activation Fixes**: Access curated online compatibility fixes for games (tier-based)
 
-- **Auto-Update Manifests**: Ultimate tier gets automatic manifest updates
+- **Auto-Update Manifests**: Ultimate tier gets automatic content updates
 
 - **Rate Limiting**: Steam API-friendly request queuing
 
-- **Path Validation**: Secure file operations within Steam directories
+- **Path Validation**: Works alongside your existing Steam installation
 
 ## 🏆 Tiers & Pricing
 
@@ -40,7 +40,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 
 ### Installation
 
-1. **Download the latest installer** from the [Releases](https://github.com/snapsteamteam/SnapSteam/releases/tag/0.8.5) Tab
+1. **Download the latest installer** from the [Releases](https://github.com/snapsteamteam/SnapSteam/releases/) Tab
 2. **Run the installer** and follow the setup wizard
 3. **Make sure you joined our Discord server** [Discord](https://discord.gg/V9uNkVYT5F) Only used for authentication, and community server
 4. **Launch SnapSteam** and authenticate with Discord
@@ -82,15 +82,10 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 - Check Steam API status
 
 
-## 📚 Documentation
-
-- **Discord Community**: [Join our support server](https://discord.gg/V9uNkVYT5F)
-- **Patreon Support**: [Support development](https://www.patreon.com/c/SnapSteam)
-
 ## 🔗 Links
 
 - **Discord Community**: https://discord.gg/V9uNkVYT5F
-- **Patreon Support**: https://www.patreon.com/c/SnapSteam
+- **Patreon**: https://www.patreon.com/c/SnapSteam
 - **Bug Reports**: https://github.com/snapsteamteam/snap-steam/issues
 - **Feature Requests**: https://discord.gg/V9uNkVYT5F
 
