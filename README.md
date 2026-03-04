@@ -5,15 +5,15 @@
 [![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
-SnapSteam is a powerful Windows desktop application that helps users easily add their favourite games to their library, with online activation fixes.
+SnapSteam is a powerful Windows desktop application that helps users easily manage and organise their favourite games in their library, with online compatibility fixes.
 
 ## ✨ Features
 
-- **Instant Access**: Automatically detects available games and streamlines Steam library management
+- **Instant Access**: Automatically detects games and streamlines Steam library management
 
-- **Online Activation Fixes**: Access curated online compatibility fixes for games (tier-based)
+- **Online Compatibility Fixes**: Access curated online compatibility fixes for games (tier-based)
 
-- **Auto-Update Manifests**: Ultimate tier gets automatic content updates
+- **Auto-Updates**: Ultimate tier gets automatic content updates
 
 - **Rate Limiting**: Steam API-friendly request queuing
 
@@ -76,7 +76,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily add 
 - Wait for daily/monthly reset
 - Consider upgrading your tier
 
-**"Rate limited by Steam API"**
+**"Steam connectivity issues"**
 - Wait for the automatic cooldown
 - Reduce search frequency
 - Check Steam API status
