@@ -2,7 +2,7 @@
 
 > **Steam library companion tool for Windows**
 
-[![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)](#downloads)
+[![Version](https://img.shields.io/badge/version-0.9.0-blue.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
 SnapSteam is a powerful Windows desktop application that helps users easily manage and organise their favourite games in their library, with online compatibility fixes.
