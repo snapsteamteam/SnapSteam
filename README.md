@@ -2,7 +2,7 @@
 
 > **Steam library companion tool for Windows**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-cyan.svg)](#downloads)
+[![Version](https://img.shields.io/badge/version-1.0.1-cyan.svg)](#downloads)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
 SnapSteam is a powerful Windows desktop application that helps users easily manage and organise their favourite games in their library, with online compatibility fixes.
@@ -58,7 +58,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 
 | Version | Release Date | Download | Size |
 |---------|--------------|----------|------|
-| **1.0.0** | 2026-03-13 | [SnapSteam Setup 1.0.0.exe](https://github.com/snapsteamteam/SnapSteam/releases/tag/1.0.0-Release) | ~4 MB |
+| **1.0.1** | 2026-03-15 | [SnapSteam Setup 1.0.1.exe](https://github.com/snapsteamteam/SnapSteam/releases/tag/1.0.1-Release) | ~4 MB |
 
 ## 🐛 Troubleshooting
 
