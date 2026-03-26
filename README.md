@@ -60,7 +60,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 
 | Version | Release Date | Download | Size |
 |---------|--------------|----------|------|
-| **1.0.1** | 2026-03-15 | [SnapSteam Setup 1.0.1.exe](https://github.com/snapsteamteam/SnapSteam/releases/tag/1.0.1-Release) | ~4 MB |
+| **1.5.0** | 2026-03-15 | [SnapSteam Setup 1.5.0.exe](https://github.com/snapsteamteam/SnapSteam/releases/tag/1.5.1-Release) | ~4 MB |
 
 ## 🐛 Troubleshooting
 
