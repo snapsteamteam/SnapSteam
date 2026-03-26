@@ -30,6 +30,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 | **Ultimate** | ♾️ | ♾️ | ✔️ | ♾️ | 2 (Can be configured by contacting us) | $15/month |
 
 *Ultimate tier includes automatic content updates*
+
 **Referral System available**: Get or give referral codes and both parties recieve free 2 downloads.
 
 ## 🚀 Quick Start
