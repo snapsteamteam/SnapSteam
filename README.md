@@ -21,15 +21,16 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 
 ## 🏆 Tiers & Pricing
 
-| Tier | Daily | Monthly | Online Fixes | Price |
-|------|-------|---------|---------------|-------|
-| **Free** | 1/72h | 10 | ❌ | Free |
-| **Starter** | 2 | 20 | ❌ | $3/month |
-| **Pro** | 4 | 40 | 1/day (25/mo) | $6/month |
-| **Premium** | 5 | 65 | 3/day (45/mo) | $10/month |
-| **Ultimate** | ♾️ | ♾️ | ♾️ | $15/month |
+| Tier | Daily | Monthly | Cloud Sync | Online Fixes | Devices | Price |
+|------|-------|---------|-------------|---------------|--------|-------|
+| **Free** | 1/72h | 10 | ❌ | ❌ | Unlimited (Since already Free) | Free |
+| **Starter** | 2 | 20 | ❌ | ❌ | 1 | $3/month |
+| **Pro** | 4 | 40 | ❌ | 1/day (25/mo) | 1 | $6/month |
+| **Premium** | 5 | 65 | ✔️ | 3/day (45/mo) | 2 | $10/month |
+| **Ultimate** | ♾️ | ♾️ | ✔️ | ♾️ | 2 (Can be configured by contacting us) | $15/month |
 
 *Ultimate tier includes automatic content updates*
+**Referral System available**: Get or give referral codes and both parties recieve free 2 downloads.
 
 ## 🚀 Quick Start
 
@@ -91,7 +92,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 
 ## 📄 Copyright
 
-© 2024 SnapSteam - All Rights Reserved
+© 2026 SnapSteam - All Rights Reserved
 
 SnapSteam is proprietary software. This repository contains only the official download files and documentation.
 
