@@ -88,7 +88,7 @@ SnapSteam is a powerful Windows desktop application that helps users easily mana
 
 - **Discord Community**: https://discord.gg/V9uNkVYT5F
 - **Patreon**: https://www.patreon.com/c/SnapSteam
-- **Bug Reports**: https://github.com/snapsteamteam/snap-steam/issues
+- **Bug Reports**: https://github.com/snapsteamteam/snapsteam/issues
 - **Feature Requests**: https://discord.gg/V9uNkVYT5F
 
 ## 📄 Copyright
